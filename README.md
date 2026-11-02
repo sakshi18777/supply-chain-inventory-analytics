@@ -40,9 +40,9 @@ The Power BI dashboard includes KPI cards and visualizations for:
 - Purchase order delivery performance
 - Product category distribution
 - Monthly sales trends
-- ![Supply Chain & Inventory Analytics Dashboard](Dashboard.png)
 
-*Dashboard screenshots will be added to this repository.*
+
+Dashboard screenshots will be added to this repository.
 
  📁 Project Files
 - `.sql` files — SQL queries and analysis
